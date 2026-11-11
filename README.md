@@ -4,3 +4,5 @@ UniBo Laboratorio Elettromagnetismo e Ottica (Romani Sofia (matr. 0001215422), M
 Prova 1: Simulazione Monte Carlo
 
 Prova 2: Fit e diagnostica
+
+Prova 3: Incertezze e Covarianze
